@@ -1,4 +1,4 @@
-<h4 align="left">👋 Hi there!<br><br>My name is Joyline Dsilva and I’m a Final-year B.E. student in Artificial Intelligence & Machine Learning, from Udupi, Karnataka, India 🇮🇳<br><br>🎓 AIML Undergraduate at PA College of Engineering (CGPA: 8.83)<br><br>🤖 Passionate about Artificial Intelligence, Machine Learning, Deep Learning & NLP<br><br>🔭 Currently working on AI-powered applications, real-time systems, and computer vision projects<br><br>📱 Building Wayfaro, an AI-powered travel companion app using Flask & MongoDB<br><br>🧠 Experienced in Computer Vision (OpenCV, YOLO) and ML model development<br><br>📊 Skilled in Data Visualization using Power BI & Tableau<br><br>🌐 Interested in AI + Web Development (Flask, HTML, CSS, JavaScript)<br><br>⚡ In my free time, I enjoy building projects, experimenting with datasets, and learning new AI tools</h4>
+<h3 align="left">👋 Hi there!<br><br>My name is Joyline Dsilva and I’m a Final-year B.E. student in Artificial Intelligence & Machine Learning, from Udupi, Karnataka, India 🇮🇳<br><br>🎓 AIML Undergraduate at PA College of Engineering (CGPA: 8.83)<br><br>🤖 Passionate about Artificial Intelligence, Machine Learning, Deep Learning & NLP<br><br>🔭 Currently working on AI-powered applications, real-time systems, and computer vision projects<br><br>📱 Building Wayfaro, an AI-powered travel companion app using Flask & MongoDB<br><br>🧠 Experienced in Computer Vision (OpenCV, YOLO) and ML model development<br><br>📊 Skilled in Data Visualization using Power BI & Tableau<br><br>🌐 Interested in AI + Web Development (Flask, HTML, CSS, JavaScript)<br><br>⚡ In my free time, I enjoy building projects, experimenting with datasets, and learning new AI tools</h3>
 
 ###
 
@@ -66,11 +66,5 @@
   <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
   <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/JoylineDsilva/JoylineDsilva/output/snake.svg" alt="Snake animation" />
 
 ###
