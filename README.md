@@ -1,6 +1,16 @@
+<br clear="both">
+
+<img align="left" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXM1MXl0NG9vaGg2cnU0cG0wZTM4bmNmY2c5djhvaHdzMHp1YTh0cCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/L1R1tvI9svkIWwpVYr/giphy.gif"  />
+
+###
+
+<br clear="both">
+
 <h3 align="left">👋 Hi there!<br><br>My name is Joyline Dsilva and I’m a Final-year B.E. student in Artificial Intelligence & Machine Learning, from Udupi, Karnataka, India 🇮🇳<br><br>🎓 AIML Undergraduate at PA College of Engineering (CGPA: 8.83)<br><br>🤖 Passionate about Artificial Intelligence, Machine Learning, Deep Learning & NLP<br><br>🔭 Currently working on AI-powered applications, real-time systems, and computer vision projects<br><br>📱 Building Wayfaro, an AI-powered travel companion app using Flask & MongoDB<br><br>🧠 Experienced in Computer Vision (OpenCV, YOLO) and ML model development<br><br>📊 Skilled in Data Visualization using Power BI & Tableau<br><br>🌐 Interested in AI + Web Development (Flask, HTML, CSS, JavaScript)<br><br>⚡ In my free time, I enjoy building projects, experimenting with datasets, and learning new AI tools</h3>
 
 ###
+
+<br clear="both">
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -52,9 +62,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXM1MXl0NG9vaGg2cnU0cG0wZTM4bmNmY2c5djhvaHdzMHp1YTh0cCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/L1R1tvI9svkIWwpVYr/giphy.gif"  />
-
-###
+<br clear="both">
 
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
